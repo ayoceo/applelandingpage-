@@ -13,7 +13,7 @@ body {
 .navbar {
     width: 100%;
     height: 2.5rem;
-    background-color: white;
+    background-color: #f7f6f8;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -61,9 +61,10 @@ a {
 .ground {
     width: 100%;
     height: 90vh;
-    background-color: #e0e0e3;
+    background-color: #f5f5f7;
     display: flex;
     justify-content: center;
+
 
 }
 
@@ -118,4 +119,373 @@ a {
     background-color: white;
     color: blue;
     /* box-shadow: 0 0 10px 5px rgba(18, 18, 235, 0.338); */
+}
+
+.icon {
+    width: 100%;
+    height: 100vh;
+    background-color: #f5f5f7;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+.head {
+    font-size: 3.5rem;
+    color: black;
+    /* font-weight: 300; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.pg {
+    font-size: 25px;
+    color: black;
+}
+
+.anco {
+    width: 30rem;
+    height: 28rem;
+    /* background-color: rgb(232, 229, 225); */
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    padding-top: 18px
+}
+
+.arco {
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    background-color: rgba(42, 106, 244, 0.929);
+    color: white;
+    cursor: pointer;
+
+}
+
+.acon {
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 18px;
+    background-color: rgba(240, 241, 244, 0.929);
+    color: rgb(34, 86, 228);
+    border: solid 1px;
+    cursor: pointer;
+
+
+}
+
+.acon:hover {
+    background-color: rgb(60, 128, 245);
+    color: white;
+
+
+}
+
+.iphone {
+    height: 27rem;
+
+}
+
+.mac {
+    font-size: 3.8rem;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.amz {
+    font-size: 30px;
+    color: black;
+    padding-right: 2px;
+}
+
+.plasma {
+    width: 26rem;
+    height: 50rem;
+    padding-top: 1px;
+    padding-bottom: 24.7rem;
+}
+
+.ico {
+    width: 100%;
+    height: 100vh;
+    background-color: #c2e4f3;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+.ipad {
+    color: black;
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+}
+
+.m4 {
+    color: black;
+    font-size: 28px;
+}
+
+.acoi {
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 40px;
+    border: solid 1px;
+    font-size: 18px;
+    background-color: #bbe3f0;
+    color: rgba(28, 28, 222, 0.829);
+}
+
+.acoi:hover {
+    background-color: rgba(46, 104, 239, 0.897);
+    color: white;
+}
+
+.tab {
+    width: 65rem;
+    height: 35rem;
+    padding-bottom: 9rem;
+}
+
+.boxes {
+    width: 100%;
+    height: 90vh;
+    background-color: #f5f5f6;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+
+
+
+}
+
+.boxe {
+    width: 49%;
+    height: 100%;
+    background-color: #d5d5dd38;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.boxi {
+    width: 49%;
+    height: 100%;
+    background-color: #d7ebf6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.txt {
+    color: black;
+    padding-top: 30px;
+}
+
+.big-icon {
+    font-size: larger;
+    margin-right: -15px;
+}
+
+.wat {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+.the {
+    color: black;
+    font-size: 20px;
+}
+
+.arcoo {
+    width: 8rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    background-color: rgba(42, 106, 244, 0.929);
+    color: white;
+    cursor: pointer;
+
+}
+
+.acoii {
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 40px;
+    border: solid 1px;
+    font-size: 15px;
+    background-color: #d5d5dd38;
+    color: rgba(28, 28, 222, 0.829);
+    cursor: pointer;
+}
+
+.acoii:hover {
+    background-color: rgba(46, 104, 239, 0.897);
+    color: white;
+}
+
+.gpt {
+    width: 45rem;
+    height: 45rem;
+    padding-bottom: 20.8rem;
+}
+
+.air {
+    color: black;
+    font-size: 2.3rem;
+    font-weight: 500;
+    padding-top: 30px;
+}
+
+.lap {
+    width: 35rem;
+    height: 35rem;
+    padding-bottom: 12rem;
+}
+
+.get {
+    font-size: 20px;
+    width: 15rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+}
+
+.arcom {
+    width: 9rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 14px;
+    background-color: rgba(42, 106, 244, 0.929);
+    color: white;
+    cursor: pointer;
+    cursor: pointer;
+
+}
+
+.png {
+    width: 20rem;
+
+
+}
+
+.card {
+    width: 37rem;
+    height: 40rem;
+    padding-bottom: 15rem;
+
+}
+
+.apply {
+    width: 6rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: rgb(243, 244, 247);
+    color: rgba(13, 9, 230, 0.895)
+}
+
+.apply:hover {
+    background-color: rgba(11, 101, 236, 0.879);
+    color: white;
+}
+
+.sm-hd {
+    font-size: 18px;
+    width: 15rem;
+    text-align: center;
+    color: black;
+    font-weight: 500;
+}
+
+.se-box {
+    width: 49%;
+    height: 100%;
+    width: 49%;
+    height: 100%;
+    background-color: #EEEEF1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.big-icom {
+    font-size: larger;
+    margin-right: -15px;
+    color: white;
+}
+
+.ult {
+    font-size: 2rem;
+    font-weight: 700;
+    color: white;
+}
+
+.sm-txt {
+    color: black;
+    padding-top: 30px;
+    color: white;
+}
+
+.sm-the {
+    color: black;
+    font-size: 20px;
+    color: white;
+}
+
+.bg-boxe {
+    width: 49%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.sm-acoi {
+    width: 5rem;
+    height: 2.5rem;
+    border-radius: 40px;
+    border: solid 1px;
+    font-size: 15px;
+    background-color: #d5d5dd38;
+    color: rgb(13, 92, 240);
+    cursor: pointer;
+}
+
+.sm-acoi:hover {
+    background-color: black;
+    color: white;
+    border: solid 2px;
+}
+
+.series {
+    width: 20rem;
+    height: 43rem;
+    padding-bottom: 20rem;
 }
